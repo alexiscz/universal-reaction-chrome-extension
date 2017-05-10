@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Ahhh",
+  "version":"1.0",
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'",
+  "description": "FTW of Denis",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "reaction.html"
+  },
+  "background": { "scripts": ["denis.js"] }
+}
