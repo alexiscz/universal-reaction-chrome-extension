@@ -1,4 +1,4 @@
-[
+config = [
     {
         "file":"assets/sounds/denis_ha.mp3",
         "name":"Ah",
@@ -14,5 +14,5 @@
         "name":"Ah 2",
         "img":"assets/img/1465754599-img2.png"
     }
-    
-]
+
+];
