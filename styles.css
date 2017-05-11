@@ -4,15 +4,15 @@ body {
   width: 300px;
   margin: 0;
 }
-#main {
-  width: 100%
-}
 .button{
   width: 100px;
   height: 100px;
   float: left;
   position: relative;
-  background-color: #f8f8f8;
+  background-color: #fff;
+}
+.button:active {
+  transform: scale(.9);
 }
 .button img{
   max-width: 80px;
